@@ -2,9 +2,9 @@
 
 The first word that comes to mind when you hear "AI": **inevitable**.
 
-![make.fun](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/cunong05/u-0xkianno-one-word-first-thought-106abaf8/competition.svg)
-![Rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/cunong05/u-0xkianno-one-word-first-thought-106abaf8/rank.svg)
-![Reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/cunong05/u-0xkianno-one-word-first-thought-106abaf8/reward.svg)
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/cunong05/u-0xkianno-one-word-first-thought-106abaf8/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/cunong05/u-0xkianno-one-word-first-thought-106abaf8/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 
 ## Why "inevitable"?
 
